@@ -1,0 +1,26 @@
+bool row_has_no_threes_of_color(const int board[MAX_SIZE][MAX_SIZE],
+                                int size,
+                                int row,
+                                int color) {
+    // write your code here
+
+    // replace this return statement
+    return false;
+}
+
+bool col_has_no_threes_of_color(const int board[MAX_SIZE][MAX_SIZE],
+                                int size,
+                                int col,
+                                int color) {
+    // write your code here
+
+    // replace this return statement
+    return false;
+}
+
+bool board_has_no_threes(const int board[MAX_SIZE][MAX_SIZE], int size) {
+    // write your code here
+
+    // replace this return statement
+    return false;
+}
